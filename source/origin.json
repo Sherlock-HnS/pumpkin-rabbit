@@ -1,0 +1,21 @@
+{
+  "id": "3532749231",
+  "name": "pumpkin-rabbit",
+  "title": "[PILL PACK] Pumpkin Rabbit",
+  "author": "Dylansonfire",
+  "status": "extracted_verified",
+  "acquisition": "existing_steam_client_installation",
+  "steamcmd_download_completed": false,
+  "source_workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3532749231",
+  "source_archive_sha256": "0785516a9e9cbdc8b1de8214c0e2c0f715a1d5657178e43b1cc9683fc15a4c35",
+  "gma_header": {
+    "title": "[PILL PACK] Pumpkin Rabbit",
+    "description": "{\"title\":\"[PILL PACK] Pumpkin Rabbit\",\"type\":\"npc\",\"tags\":[\"roleplay\",\"fun\",\"realism\"],\"ignore\":[]}",
+    "author": "Author Name",
+    "steam_id": "0",
+    "timestamp": 1753304727
+  },
+  "files": 64,
+  "payload_bytes": 520269164,
+  "roundtrip_verified": true
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/black.vmt",
+    "size": 475,
+    "crc": 1611995696,
+    "sha256": "4e937586db6495568d56cd93bb1dc538c6130e29f7a0ff8efdb568375f7c475b"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/fur.vmt",
+    "size": 384,
+    "crc": 3832576711,
+    "sha256": "2e5e5f1289aadcda1c380187ec3b62549f88705cf8c1a999e335ea1f6f580265"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/crustyball.vmt",
+    "size": 490,
+    "crc": 3464945899,
+    "sha256": "a79124ed1de16bb6913e512f50a0eec4e0b6b7d2ff981126d95aab3204052481"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/body.vmt",
+    "size": 313,
+    "crc": 3015766810,
+    "sha256": "84b0962c50328a980adee533223cf068313da0fd757c1d39cd91af9290afb182"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/black_2.vmt",
+    "size": 475,
+    "crc": 1611995696,
+    "sha256": "4e937586db6495568d56cd93bb1dc538c6130e29f7a0ff8efdb568375f7c475b"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/apronbloody.vmt",
+    "size": 493,
+    "crc": 4281783961,
+    "sha256": "df0f492d2f79c7226acfddd6f53eb195dec37fc28c07f706ae5efe8bac191c31"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/crustyball_bump.vtf",
+    "size": 349688,
+    "crc": 312668814,
+    "sha256": "bc7bb9d50ef4e2d369886221f8610108e6cd913dbfed5d1ed75e7f4cb685bc8e"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/crustyball_phongexp.vtf",
+    "size": 349688,
+    "crc": 1019853926,
+    "sha256": "ac9768c3ae0b5673fbd3713e3e8d4c5c4966aea14f99f0ba8e2ad9b1b28eea86"
+  },
+  {
+    "path": "lua/autorun/sh_pr.lua",
+    "size": 272,
+    "crc": 1238113178,
+    "sha256": "660c873d9735918afe82daa5695fb1704f4d63eb0f4a00baae1b922bfc6b6fd5"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/crustyball_albedo.vtf",
+    "size": 349688,
+    "crc": 323523381,
+    "sha256": "2b5628c3ecf9cfe2e4da41b21885d8f059c3f4b352d9bfb1134cc5f2107641b6"
+  },
+  {
+    "path": "lua/autorun/pr_pill_base.lua",
+    "size": 2088,
+    "crc": 2751867525,
+    "sha256": "5564c5a9b6a9276b024076327a2e1f7c3dc3fd2440a3f3bc727410127b24dbb4"
+  },
+  {
+    "path": "lua/autorun/include/pr.lua",
+    "size": 10978,
+    "crc": 2383133614,
+    "sha256": "b61c7a4728f2c10252e5e20014d0a306cbaa2fd56a2f0c10e1f3ba0a0e69da76"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/neck.vmt",
+    "size": 472,
+    "crc": 540601709,
+    "sha256": "158aefd0521e1d9a8a665ad215459f08cbbdc3643904fb055db9c03943301229"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/metal.vmt",
+    "size": 241,
+    "crc": 4071651326,
+    "sha256": "2df67dbc3b190a9ad7d2d592edff9075acf90350d144c7552010fea17fed512c"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/body_phongexp.vtf",
+    "size": 4194524,
+    "crc": 577703873,
+    "sha256": "67bc9cc3aa595a2d915703a60087b4f111906be18a6dca889ee82ff0cad8af98"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/skinmask.vmt",
+    "size": 484,
+    "crc": 1033543081,
+    "sha256": "d64fb76d9e7c70f2792150edddee1f8e31ca9fc6a5961319aa504a3c4f3c25c2"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/teeth.vmt",
+    "size": 475,
+    "crc": 974889391,
+    "sha256": "b80609d3771418199e42d31c47a0e03b29dc759f474b7897476c2c5d6dc8983f"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/black_phongexp.vtf",
+    "size": 4194524,
+    "crc": 577703873,
+    "sha256": "67bc9cc3aa595a2d915703a60087b4f111906be18a6dca889ee82ff0cad8af98"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/fur_albedo.vtf",
+    "size": 5592640,
+    "crc": 1106506267,
+    "sha256": "3a64fc809b285c8941bba5b8b7730680d521acfd008479e8aa4d06ed6f0b11ea"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/black_bump.vtf",
+    "size": 5592624,
+    "crc": 324777994,
+    "sha256": "c47309870c44896274d9210e0dad6180c80118abc0029d9bbf3fcdfd8f5b0a61"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/tie.vmt",
+    "size": 469,
+    "crc": 2062165141,
+    "sha256": "b75836898f27148a7dfc469c3295057b6bb82ed3d0d5bb1b8108a5e5bc5c825c"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/body_albedo.vtf",
+    "size": 5592640,
+    "crc": 1292065213,
+    "sha256": "2684e5d2412afc817c43a1e7a47d74cb443cfea6732473fd92a494f93b5a62a2"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/black_albedo.vtf",
+    "size": 5592624,
+    "crc": 279765806,
+    "sha256": "8c7632d7f628b1e27d0c200ec9516e01db471ed6a871e91b96d2755941733770"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/apronbloody_phongexp.vtf",
+    "size": 16777436,
+    "crc": 429089526,
+    "sha256": "1913a61f66128acda99b35d620a2499e3d9282a67e878baa58d6b2b0e4954cea"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/apronbloody_bump.vtf",
+    "size": 22369840,
+    "crc": 653032092,
+    "sha256": "0ce6a4538f87f4588a4ab051e916e3c5d05f87652050b5c4864cef2412042d0a"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/body_bump.vtf",
+    "size": 22369840,
+    "crc": 275862750,
+    "sha256": "873d72bfbfeffefc570bfd7ead5372e0a5d6d7a89c052f37b2f8adb6f82f33aa"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/apronbloody_albedo.vtf",
+    "size": 22369840,
+    "crc": 4135246799,
+    "sha256": "0caa1d9df86eda516d2d2b6881b0a480d78ae7202dd806378418726ae0e1dd7d"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/underskin.vmt",
+    "size": 487,
+    "crc": 2578984451,
+    "sha256": "a4ea239ced05875818e4356456317c32217c8d856527d40126cdc25fe180fe94"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/fur_phongexp.vtf",
+    "size": 16777436,
+    "crc": 3987758708,
+    "sha256": "f8c5f1d4ebe4d5d2fa310667c51ddd7bf74659d0b7ff378e9230c1c6536f4d1f"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/neck_albedo.vtf",
+    "size": 22369840,
+    "crc": 3365336773,
+    "sha256": "c9dfa4f7361f9687a4f479c52c8a67b6f1d5373243502dbf9f94d3fcad4b1793"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/skinmask_bump.vtf",
+    "size": 22369840,
+    "crc": 2017620660,
+    "sha256": "355ee57eea143f8a7bdee07fc7c1ea999714b3a535378c2f8251ebd85ee8f7f0"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/neck_bump.vtf",
+    "size": 22369840,
+    "crc": 141577181,
+    "sha256": "92329186277696490eebe8e096ddaca92de9ac5a05d58e7210db89a23f4faef0"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/metal_albedo.vtf",
+    "size": 2796424,
+    "crc": 74400304,
+    "sha256": "ce69c08a279610ca971bf269b24381f566d108f6c6390c53b8f8c7da86528170"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/fur_envmap.vtf",
+    "size": 5592628,
+    "crc": 1486067545,
+    "sha256": "48cd37d20d83024cb1eb579d80eb06feb7560b417dd5b636a51f5c9317d941ed"
+  },
+  {
+    "path": "sound/dark/pr/highlight2.mp3",
+    "size": 79976,
+    "crc": 1602977794,
+    "sha256": "241458b8a86c6ab3c4f9f6d25a73885e844f5035df49d3dd832a10c60e057d15"
+  },
+  {
+    "path": "sound/dark/pr/highlight3.mp3",
+    "size": 54468,
+    "crc": 2559471469,
+    "sha256": "26c199e72b91feb4444e13acad376d7e118279484812aafa6e5bd4b18e11deed"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/fur_bump.vtf",
+    "size": 22369840,
+    "crc": 275862750,
+    "sha256": "873d72bfbfeffefc570bfd7ead5372e0a5d6d7a89c052f37b2f8adb6f82f33aa"
+  },
+  {
+    "path": "sound/dark/pr/highlight1.mp3",
+    "size": 91383,
+    "crc": 2129344679,
+    "sha256": "c85b83c62c68d39282396c3624e29c5f47f522ec39b627f55501c207ae3fd97e"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/skinmask_albedo.vtf",
+    "size": 22369840,
+    "crc": 4117168833,
+    "sha256": "9c20eae520b31057f7ef4898ca1696d0fafb84c9a234b8eb170d4d7b9479a235"
+  },
+  {
+    "path": "models/birdlecandles/pumpkinrabbit.dx90.vtx",
+    "size": 723107,
+    "crc": 2445971344,
+    "sha256": "0c53069960b6dd99bfc3f143ec96576ea21c1210ed981b64bc3a2d1d9b519cb3"
+  },
+  {
+    "path": "models/birdlecandles/pumpkinrabbit.mdl",
+    "size": 237728,
+    "crc": 1454076888,
+    "sha256": "407d6427ce9a95191782e62c643fe6e2923128feb6eb80b411cf06a9e17c377a"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/metal_bump.vtf",
+    "size": 22369840,
+    "crc": 70364662,
+    "sha256": "c887270d3afb047baaa7bf22bc188074288fc80563201238ec1a361dd039dab3"
+  },
+  {
+    "path": "models/birdlecandles/pumpkinrabbit.dx80.vtx",
+    "size": 724822,
+    "crc": 3289877911,
+    "sha256": "7e00b1fbdd189197e7f97d88f0c0e30073f60ca538df76834ddd7d7c3cdf427b"
+  },
+  {
+    "path": "sound/dark/pr/killvoice3.mp3",
+    "size": 107741,
+    "crc": 2826793988,
+    "sha256": "8e42057e2adf75ac36b3a5f490551cab85a7e385bd57b01dbeefe3ac130aa1dc"
+  },
+  {
+    "path": "sound/dark/pr/kill.mp3",
+    "size": 148606,
+    "crc": 387745306,
+    "sha256": "57553cba1dbcffec1bd9e4ef6dcd0f24635f3fb73e52ac9a076413ab22e424f5"
+  },
+  {
+    "path": "sound/dark/pr/killvoice1.mp3",
+    "size": 61175,
+    "crc": 1743159770,
+    "sha256": "cf216aa5a51f6bf60588307265cd0845e671f6516ba9d8cffebe83380d18b361"
+  },
+  {
+    "path": "sound/dark/pr/killvoice2.mp3",
+    "size": 88059,
+    "crc": 2464866436,
+    "sha256": "5e324246a7972d462bf765274d27ec134bca46a7252fc0264fc38200ab3a7919"
+  },
+  {
+    "path": "sound/dark/pr/laugh3.mp3",
+    "size": 42003,
+    "crc": 351255744,
+    "sha256": "453e4b0446f6aa41bed04891587bd1fd69d869d600c5ce477804a333f28b9478"
+  },
+  {
+    "path": "sound/dark/pr/laugh1.mp3",
+    "size": 78811,
+    "crc": 1814305977,
+    "sha256": "53986058184e704bdc1a06d73139bbf19bba52f903192a579c90c9051b9eb9e1"
+  },
+  {
+    "path": "sound/dark/pr/laugh2.mp3",
+    "size": 108537,
+    "crc": 3951392839,
+    "sha256": "01f49d578da14117d657852ceda6cf4ddba350fb146b1f477e1bb6b86276d78a"
+  },
+  {
+    "path": "models/birdlecandles/pumpkinrabbit.vvd",
+    "size": 2405376,
+    "crc": 2468856285,
+    "sha256": "482938124e7b9e676860a89d71f41e15a6efc6e08d8161d902e081a5a07a3749"
+  },
+  {
+    "path": "sound/dark/pr/idle.wav",
+    "size": 5333996,
+    "crc": 766868859,
+    "sha256": "556b3b4511dcd8b35e4db441628e01d151bc40eedf65b83476c82ce7dbe233cd"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/skinmask_phongexp.vtf",
+    "size": 16777436,
+    "crc": 959668514,
+    "sha256": "49c63000e963006ff1a8a828f4d577f093c7f0be291867be46d5f3a9af0fb826"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/teeth_phongexp.vtf",
+    "size": 16777436,
+    "crc": 4286550455,
+    "sha256": "3be63edd5dbe4f25587a2425d133d85e531cc19fcf79bc4bdae65207afa5c583"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/tie_phongexp.vtf",
+    "size": 16777436,
+    "crc": 1261321550,
+    "sha256": "f0d6a0d6253993db56ba4a9cca8f849016e55c103ae562106a746c4e98849dba"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/neck_phongexp.vtf",
+    "size": 16777436,
+    "crc": 884117980,
+    "sha256": "94402db5b666204d6e0c3d82ba8bb1dac2134a4e674a5a914ca19035c764a28f"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/metal_phongexp.vtf",
+    "size": 16777436,
+    "crc": 2703937104,
+    "sha256": "704750317dc406f987e3c08cb46af2edf654f18f0ea080ce761601623f11d10b"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/underskin_phongexp.vtf",
+    "size": 16777436,
+    "crc": 376404300,
+    "sha256": "0b957cc5e13dbe0caa3ac04aca946908f9304a2acd982bac895898e137f680a3"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/tie_bump.vtf",
+    "size": 22369840,
+    "crc": 2655264124,
+    "sha256": "06a24fdcbd1e0f918a1493e751fbc16fd0153f447da3762c99e59f2b78f5811f"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/underskin_albedo.vtf",
+    "size": 22369840,
+    "crc": 2876222678,
+    "sha256": "905c12b68bd9eb607c9ad76648f447ead32e55613091aabd85140135c558c561"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/tie_albedo.vtf",
+    "size": 22369840,
+    "crc": 4128942990,
+    "sha256": "9a4457c86eb33ede2379c52787b3be1894ee9ea98afcccfffbe919eddceff774"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/teeth_albedo.vtf",
+    "size": 22369840,
+    "crc": 2516562907,
+    "sha256": "85b40559fe41b2685c59cf2aec0a19c5cd2289a7d5c60fefbac79bae812a022b"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/teeth_bump.vtf",
+    "size": 22369840,
+    "crc": 2008927234,
+    "sha256": "765471d4a5cbd513ada454ed17d7bf06b6549663a8d2d64589261db4d0665516"
+  },
+  {
+    "path": "materials/models/birdlecandles/pumpkinrabbit/underskin_bump.vtf",
+    "size": 22369840,
+    "crc": 3591304079,
+    "sha256": "6e5d7c4acda4a8d1d87e2049ad0f855e53b1cd7726e9e7ed9373496705db6b9c"
+  }
+]
