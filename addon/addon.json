@@ -1,10 +1,9 @@
 {
-  "ignore": [],
+  "title": "[PILL PACK] Pumpkin Rabbit",
+  "type": "npc",
   "tags": [
     "roleplay",
-    "fun",
-    "realism"
+    "fun"
   ],
-  "title": "[PILL PACK] Pumpkin Rabbit",
-  "type": "npc"
+  "ignore": []
 }
